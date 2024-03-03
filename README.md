@@ -22,7 +22,7 @@ While the narrative is in its early stages, it serves as a foundational prototyp
    - Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/Sakura-renpy.git
+   git clone https://github.com/AdityaH007/Sakura-renpy.git
    cd Sakura-renpy
    ```
 
